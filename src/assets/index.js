@@ -1,0 +1,20 @@
+import logo from './logo.png'
+import imgPeople from './imgPeople.png'
+import greenMan from './greenMan.png'
+import bag from './bag.png'
+import google from './google.png'
+import smile from './smile.png'
+import apple from './apple.png'
+import orangeMan from './orangeMan.png'
+import img1 from './img1.png'
+import img2 from './img2.png'
+import img3 from './img3.png'
+import img4 from './img4.png'
+import img5 from './img5.png'
+import img6 from './img6.png'
+import img7 from './img7.png'
+import img8 from './img8.png'
+import videoImg from './videoImg.png'
+
+
+export {logo, imgPeople, greenMan, bag, google, smile, apple, orangeMan, img1, img2, img3, img4, img5, img6, img7, img8, videoImg}
